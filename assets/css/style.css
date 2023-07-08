@@ -125,6 +125,10 @@ footer {
     aside li {
         padding: 0.5rem;
     }
+    .list-menu a{
+        text-decoration: none;
+        color: inherit;
+    }
     .title {
         padding-left: 0.5rem;
         padding-right: 0.01rem;
